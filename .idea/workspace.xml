@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="" />
+    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="add-f1-image">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +35,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -63,11 +70,23 @@
       <workItem from="1634722348572" duration="1610000" />
       <workItem from="1634907105021" duration="5735000" />
       <workItem from="1635145447184" duration="4000" />
-      <workItem from="1635232241851" duration="9695000" />
+      <workItem from="1635232241851" duration="10306000" />
     </task>
+    <task id="LOCAL-00001" summary="add-f1-image">
+      <created>1635247253486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635247253486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add-f1-image" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-f1-image" />
   </component>
 </project>
