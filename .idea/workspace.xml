@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="add-f1-image">
+      <change afterPath="$PROJECT_DIR$/assets/img/grandturismo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/video/K2000 - Générique - 1986.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadillac.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadillac.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cinema.html" beforeDir="false" afterPath="$PROJECT_DIR$/cinema.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corvette.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvette.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insolite.html" beforeDir="false" afterPath="$PROJECT_DIR$/insolite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rienadeclarer.html" beforeDir="false" afterPath="$PROJECT_DIR$/rienadeclarer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,9 +59,9 @@
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\video" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\css" />
     </key>
   </component>
@@ -71,7 +78,16 @@
       <workItem from="1634722348572" duration="1610000" />
       <workItem from="1634907105021" duration="5735000" />
       <workItem from="1635145447184" duration="4000" />
-      <workItem from="1635232241851" duration="19056000" />
+      <workItem from="1635232241851" duration="19633000" />
+      <workItem from="1635327745665" duration="4000" />
+      <workItem from="1635508832321" duration="3596000" />
+      <workItem from="1635676667020" duration="197000" />
+      <workItem from="1635840432960" duration="395000" />
+      <workItem from="1635841825796" duration="4000" />
+      <workItem from="1635856435566" duration="2002000" />
+      <workItem from="1635927100852" duration="8000" />
+      <workItem from="1635927307962" duration="116000" />
+      <workItem from="1635927658281" duration="6828000" />
     </task>
     <task id="LOCAL-00001" summary="add-f1-image">
       <created>1635247253486</created>
@@ -87,14 +103,36 @@
       <option name="project" value="LOCAL" />
       <updated>1635247854666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add-f1-image">
+      <created>1635259278395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635259278395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add-f1-image" />
     <option name="LAST_COMMIT_MESSAGE" value="add-f1-image" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
