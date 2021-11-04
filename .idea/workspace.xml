@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="add-f1-image">
-      <change afterPath="$PROJECT_DIR$/assets/img/grandturismo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/video/K2000 - Générique - 1986.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
+    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadillac.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadillac.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cinema.html" beforeDir="false" afterPath="$PROJECT_DIR$/cinema.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corvette.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvette.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crew.html" beforeDir="false" afterPath="$PROJECT_DIR$/crew.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insolite.html" beforeDir="false" afterPath="$PROJECT_DIR$/insolite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rapides.html" beforeDir="false" afterPath="$PROJECT_DIR$/rapides.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rienadeclarer.html" beforeDir="false" afterPath="$PROJECT_DIR$/rienadeclarer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuntman.html" beforeDir="false" afterPath="$PROJECT_DIR$/stuntman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,9 @@
       <workItem from="1635856435566" duration="2002000" />
       <workItem from="1635927100852" duration="8000" />
       <workItem from="1635927307962" duration="116000" />
-      <workItem from="1635927658281" duration="6828000" />
+      <workItem from="1635927658281" duration="9585000" />
+      <workItem from="1635950675276" duration="779000" />
+      <workItem from="1636013140207" duration="1689000" />
     </task>
     <task id="LOCAL-00001" summary="add-f1-image">
       <created>1635247253486</created>
@@ -110,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635259278395</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema">
+      <created>1635934905814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635934905814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,10 +137,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add-f1-image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add-f1-image" />
+    <MESSAGE value="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
