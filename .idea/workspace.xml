@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema">
+    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="modif-menu-sidebar">
+      <change afterPath="$PROJECT_DIR$/assets/img/277780_2017_Lamborghini_Aventador.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bugati.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadillac.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadillac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema.html" beforeDir="false" afterPath="$PROJECT_DIR$/cinema.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corvette.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvette.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crew.html" beforeDir="false" afterPath="$PROJECT_DIR$/crew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insolite.html" beforeDir="false" afterPath="$PROJECT_DIR$/insolite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rapides.html" beforeDir="false" afterPath="$PROJECT_DIR$/rapides.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rienadeclarer.html" beforeDir="false" afterPath="$PROJECT_DIR$/rienadeclarer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuntman.html" beforeDir="false" afterPath="$PROJECT_DIR$/stuntman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +52,9 @@
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\video" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\css" />
     </key>
   </component>
@@ -91,7 +82,7 @@
       <workItem from="1635927307962" duration="116000" />
       <workItem from="1635927658281" duration="9585000" />
       <workItem from="1635950675276" duration="779000" />
-      <workItem from="1636013140207" duration="1689000" />
+      <workItem from="1636013140207" duration="5080000" />
     </task>
     <task id="LOCAL-00001" summary="add-f1-image">
       <created>1635247253486</created>
@@ -121,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635934905814</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modif-menu-sidebar">
+      <created>1636014909256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636014909257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add-f1-image" />
     <MESSAGE value="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema" />
-    <option name="LAST_COMMIT_MESSAGE" value="add-kittpage-grandturismo&#10;&#10;add-style-for-cinema" />
+    <MESSAGE value="modif-menu-sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif-menu-sidebar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
