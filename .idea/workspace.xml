@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="commit-of-the-day">
+    <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="last-commit-of-the-day">
+      <change afterPath="$PROJECT_DIR$/assets/css/jeux.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/backgrass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/appgame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeux.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neige.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secretlondon_red_present.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadillac.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadillac.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cinema.html" beforeDir="false" afterPath="$PROJECT_DIR$/cinema.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corvette.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvette.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crew.html" beforeDir="false" afterPath="$PROJECT_DIR$/crew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insolite.html" beforeDir="false" afterPath="$PROJECT_DIR$/insolite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rapides.html" beforeDir="false" afterPath="$PROJECT_DIR$/rapides.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rienadeclarer.html" beforeDir="false" afterPath="$PROJECT_DIR$/rienadeclarer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuntman.html" beforeDir="false" afterPath="$PROJECT_DIR$/stuntman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,21 +56,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\video" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\js" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\css" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\video" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +105,15 @@
       <workItem from="1636124628274" duration="4000" />
       <workItem from="1636358554033" duration="3355000" />
       <workItem from="1636368167390" duration="1612000" />
-      <workItem from="1636445096376" duration="13173000" />
+      <workItem from="1636445096376" duration="13276000" />
+      <workItem from="1636535155678" duration="90000" />
+      <workItem from="1636535265601" duration="29000" />
+      <workItem from="1636535469761" duration="43000" />
+      <workItem from="1636535610532" duration="605000" />
+      <workItem from="1636814664589" duration="1107000" />
+      <workItem from="1636964147641" duration="1034000" />
+      <workItem from="1636968196426" duration="5828000" />
+      <workItem from="1636984160604" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="add-f1-image">
       <created>1635247253486</created>
@@ -146,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636470645862</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="last-commit-of-the-day">
+      <created>1636473434128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636473434128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +202,8 @@
     <MESSAGE value="modif-menu-sidebar" />
     <MESSAGE value="add-bagatti-veyron" />
     <MESSAGE value="commit-of-the-day" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit-of-the-day" />
+    <MESSAGE value="last-commit-of-the-day" />
+    <option name="LAST_COMMIT_MESSAGE" value="last-commit-of-the-day" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
