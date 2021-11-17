@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 .hide{
     display: none;
 }
@@ -34,19 +35,21 @@
     position: absolute;
     margin-left: 195px;
 }
-.CarGame{
-    background-image: url(/neige.jpg);
-    background-size: cover;
 
-}
-.other{
-    width: 50px;
-    height: 50px;
-    background: url("/secretlondon_red_present.png");
+.CarGame{
+    background-image: url(/assets/img/neige.jpg);
     background-size: cover;
+}
+
+.other{
+    width: 80px;
+    height: 180px;
     position: absolute;
     bottom: 120px;
+    background: url("/assets/img/other.png");
+    background-size: cover;
 }
+
 .Score{
     position: absolute;
     top: 15px;
@@ -55,21 +58,22 @@
     padding-top: 23px;
     font-size: 30px;
     line-height: 20px;
-    background-color: rgba(34, 119, 8, 0.952);
+    background-color: cornflowerblue;
     color: white;
     width: 300px;
     height: 100px;
-    box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
 }
+
 .StartScreen{
     position: absolute;
-    background-color: rgba(34, 119, 8, 0.952);
+    background-color: cornflowerblue;
     color: white;
     z-index: 1;
     margin-top: 210px;
     margin-left:360px;
     text-align: center;
-    box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
     font-size: 30px;
     width: 50%;
     height: 200px;
@@ -77,6 +81,7 @@
     border-radius: 23px;
 
 }
+
 button{
     padding: 10px;
     text-align: center;

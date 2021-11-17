@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f0c77d7-628f-447e-a106-7039dc28cc38" name="Default Changelist" comment="last-commit-of-the-day">
-      <change afterPath="$PROJECT_DIR$/assets/css/jeux.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/backgrass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/appgame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neige.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretlondon_red_present.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sound/16-bit-wave-super-nintendo-sega-genesis-retrowave-mix.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadillac.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadillac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema.html" beforeDir="false" afterPath="$PROJECT_DIR$/cinema.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corvette.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvette.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crew.html" beforeDir="false" afterPath="$PROJECT_DIR$/crew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impala.html" beforeDir="false" afterPath="$PROJECT_DIR$/impala.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insolite.html" beforeDir="false" afterPath="$PROJECT_DIR$/insolite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeuxvideos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeuxvideos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/kit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rapides.html" beforeDir="false" afterPath="$PROJECT_DIR$/rapides.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rienadeclarer.html" beforeDir="false" afterPath="$PROJECT_DIR$/rienadeclarer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuntman.html" beforeDir="false" afterPath="$PROJECT_DIR$/stuntman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/jeux.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/jeux.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/appgame.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/appgame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeux.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neige.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/neige.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secretlondon_red_present.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/secretlondon_red_present.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +55,11 @@
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\img" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\js" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\sound" />
+      <recent name="C:\Users\monst\PhpstormProjects\vive-auto" />
       <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\css" />
-      <recent name="C:\Users\monst\PhpstormProjects\vive-auto\assets\video" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -114,6 +102,11 @@
       <workItem from="1636964147641" duration="1034000" />
       <workItem from="1636968196426" duration="5828000" />
       <workItem from="1636984160604" duration="2904000" />
+      <workItem from="1636991323518" duration="212000" />
+      <workItem from="1636997867464" duration="404000" />
+      <workItem from="1637049967326" duration="7869000" />
+      <workItem from="1637065955582" duration="4656000" />
+      <workItem from="1637136897321" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="add-f1-image">
       <created>1635247253486</created>
@@ -178,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636473434128</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="last-commit-of-the-day">
+      <created>1636991477541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636991477541</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
